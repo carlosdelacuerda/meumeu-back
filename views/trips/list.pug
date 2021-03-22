@@ -1,0 +1,25 @@
+extends ../layout.pug
+
+block content
+    h1 Listado de usuarios
+
+    table.table
+        thead
+            tr
+                th Id
+                th User 
+                th picuture 
+                th password 
+                th Email  
+                th Acciones
+        tbody 
+            each user in arrUsers
+                tr
+                    td= user.id
+                    td= user.username
+                    td= user.picture
+                    td= user.password
+                    td= user.email
+                    td
+                        a.btn.btn-sm.btn-info(href="/users/edit/"+user.id) Editar
+                        a.btn.btn-sm.btn-danger.ml-2(href="/users/delete/"+user.id, onclick="return confirm('¿Estás seguro?')") Eliminar

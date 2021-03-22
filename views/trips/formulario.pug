@@ -1,0 +1,11 @@
+extends ../layout.pug
+
+block content 
+    .row
+        .col-md-6.offset-md-3.col-12
+            form(action="/trips/create", method="POST")
+                .form-group
+                    label Country 
+                    input.form-control(type="text", name="nombre")
+          
+                input.btn.btn-block.btn-info(type="submit", value="Enviar")

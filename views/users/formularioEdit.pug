@@ -1,0 +1,23 @@
+extends ../layout.pug
+
+block content 
+    .row
+        .col-md-6.offset-md-3.col-12
+            form(action="/users/update", method="POST")
+                .form-group
+                    label UserName 
+                    input.form-control(type="text", name="username", value=user.username)
+                .form-group
+                    label email 
+                    input.form-control(type="text", name="email", value=user.email) 
+                .form-group
+                    label picture 
+                    input.form-control(type="text", name="picture", value=user.picture) 
+                .form-group
+                    label Password 
+                    input.form-control(type="password", name="password", value=user.password) 
+                .form-group
+                    label Notes 
+                    input.form-control(type="text", name="notes", value=user.notes) 
+                input(type="hidden", name="id", value=user.id)
+                input.btn.btn-block.btn-info(type="submit", value="Enviar")

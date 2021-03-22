@@ -1,0 +1,103 @@
+POST http://localhost:3000/api/users/
+Content-Type: application/json
+
+{
+    "username": "dsfa",
+    "email": "dsaf",
+    "picture": "fdsa",
+    "password": "dfsa",
+    "description": "dfsaafds"
+}
+
+###
+POST http://localhost:3000/api/users/login
+Content-Type: application/json
+
+{
+    "username": "usertest",
+    "password": "123"
+}
+
+
+###
+POST http://localhost:3000/api/trips/
+Content-Type: application/json
+
+{
+    "country": "Spain",
+    "from": "2000-01-01",
+    "to": "2000-01-01",
+    "notes": "lorem ipsum",
+    "user_id": 2
+}
+
+###
+POST http://localhost:3000/api/desires/
+Content-Type: application/json
+
+{
+    "country": "Spain",
+    "from": "2000-01-01",
+    "to": "2000-01-01",
+    "notes": "lorem ipsum",
+    "user_id": 2
+}
+
+
+
+
+
+
+###
+GET http://localhost:3000/api/users/1
+
+
+###
+GET  http://localhost:3000/api/mailing/1
+Content-Type: application/json
+{
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjE2MDkyOTA0fQ.3APaLI7UaflbAKpV4M5GoTE6wreFc_PQAcs9VkQe0mM"
+}
+
+
+###
+GET http://localhost:3000/api/desires/1
+Content-Type: application/json
+
+###
+GET http://localhost:3000/api/mailing/1
+Content-Type: application/json
+
+###
+GET http://localhost:3000/api/trips/detail/2
+Content-Type: application/json
+
+
+###
+GET http://localhost:3000/api/mailing/inbox/1
+Content-Type: application/json
+
+###
+GET http://localhost:3000/api/mailing/send/1
+Content-Type: application/json
+
+
+
+###
+GET http://localhost:3000/api/desires/detaildesire/1
+Content-Type: application/json
+
+###
+POST http://localhost:3000/api/mailing/
+Content-Type: application/json
+{   
+     "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjE2MDkyOTA0fQ.3APaLI7UaflbAKpV4M5GoTE6wreFc_PQAcs9VkQe0mM"
+   "title": "mensaje prueba",
+    "text": "texto mensaje prueba",
+    "fk_user_r": 1,
+    "fk_user_e": 2,
+    "fk_desire": 2,
+    "fk_trip": 1,
+    "fk_message": 1
+}
+
