@@ -31,7 +31,7 @@ const getByCountry= (pCountry) => {
 
 const getById = (pId) => {
     return new Promise((resolve, reject) => {
-        db.query('SELECT d.*, u.username as username, u.picture as picture FROM meumeu.desires d INNER JOIN meumeu.users u ON u.id = d.user_id WHERE d.user_id = ?', [pId], (err, rows) => {
+        db.query('SELECT d.*, u.username as username, u.picture as picture FROM meumeu.desires d INNER JOIN meumeu.users u ON u.id = d.user_id WHERE d.id = ?', [pId], (err, rows) => {
             if (err) return reject(err); 
             if (rows.length === 0) return resolve(null);
             resolve(rows[0]);
@@ -49,6 +49,8 @@ const create = ({ title, country, date, notes, image, user_id }) => {
             })
     });
 }
+
+
 
 
 
