@@ -1,0 +1,582 @@
+App 817465 output: market-1
+App 817465 output: market0
+App 817465 output: conexión base de datos
+App 817465 output: Pool {
+App 817465 output:   _events: [Object: null prototype] {},
+App 817465 output:   _eventsCount: 0,
+App 817465 output:   _maxListeners: undefined,
+App 817465 output:   config: PoolConfig {
+App 817465 output:     acquireTimeout: 10000,
+App 817465 output:     connectionConfig: ConnectionConfig {
+App 817465 output:       host: 'localhost',
+App 817465 output:       port: 3306,
+App 817465 output:       localAddress: undefined,
+App 817465 output:       socketPath: undefined,
+App 817465 output:       user: 'meumeues_root',
+App 817465 output:       password: 'amor6969',
+App 817465 output:       database: 'meumeues_db',
+App 817465 output:       connectTimeout: 10000,
+App 817465 output:       insecureAuth: false,
+App 817465 output:       supportBigNumbers: false,
+App 817465 output:       bigNumberStrings: false,
+App 817465 output:       dateStrings: false,
+App 817465 output:       debug: undefined,
+App 817465 output:       trace: true,
+App 817465 output:       stringifyObjects: false,
+App 817465 output:       timezone: 'local',
+App 817465 output:       flags: '',
+App 817465 output:       queryFormat: undefined,
+App 817465 output:       pool: [Circular],
+App 817465 output:       ssl: false,
+App 817465 output:       localInfile: true,
+App 817465 output:       multipleStatements: false,
+App 817465 output:       typeCast: true,
+App 817465 output:       maxPacketSize: 0,
+App 817465 output:       charsetNumber: 33,
+App 817465 output:       clientFlags: 455631
+App 817465 output:     },
+App 817465 output:     waitForConnections: true,
+App 817465 output:     connectionLimit: 10,
+App 817465 output:     queueLimit: 0
+App 817465 output:   },
+App 817465 output:   _acquiringConnections: [],
+App 817465 output:   _allConnections: [],
+App 817465 output:   _freeConnections: [],
+App 817465 output:   _connectionQueue: [],
+App 817465 output:   _closed: false,
+App 817465 output:   [Symbol(kCapture)]: false
+App 817465 output: }
+App 817465 output: market1
+App 817465 output: market2
+App 817465 output: market3
+App 817465 output: market4
+App 817465 output: market5
+App 817465 output: market6
+App 817465 output: market7
+App 817465 output: market8
+App 817465 output: []
+App 820450 output: market-1
+App 820450 output: market0
+App 820450 output: conexión base de datos
+App 820450 output: Pool {
+App 820450 output:   _events: [Object: null prototype] {},
+App 820450 output:   _eventsCount: 0,
+App 820450 output:   _maxListeners: undefined,
+App 820450 output:   config: PoolConfig {
+App 820450 output:     acquireTimeout: 10000,
+App 820450 output:     connectionConfig: ConnectionConfig {
+App 820450 output:       host: 'localhost',
+App 820450 output:       port: 3306,
+App 820450 output:       localAddress: undefined,
+App 820450 output:       socketPath: undefined,
+App 820450 output:       user: 'meumeues_root',
+App 820450 output:       password: 'amor6969',
+App 820450 output:       database: 'meumeues_db',
+App 820450 output:       connectTimeout: 10000,
+App 820450 output:       insecureAuth: false,
+App 820450 output:       supportBigNumbers: false,
+App 820450 output:       bigNumberStrings: false,
+App 820450 output:       dateStrings: false,
+App 820450 output:       debug: undefined,
+App 820450 output:       trace: true,
+App 820450 output:       stringifyObjects: false,
+App 820450 output:       timezone: 'local',
+App 820450 output:       flags: '',
+App 820450 output:       queryFormat: undefined,
+App 820450 output:       pool: [Circular],
+App 820450 output:       ssl: false,
+App 820450 output:       localInfile: true,
+App 820450 output:       multipleStatements: false,
+App 820450 output:       typeCast: true,
+App 820450 output:       maxPacketSize: 0,
+App 820450 output:       charsetNumber: 33,
+App 820450 output:       clientFlags: 455631
+App 820450 output:     },
+App 820450 output:     waitForConnections: true,
+App 820450 output:     connectionLimit: 10,
+App 820450 output:     queueLimit: 0
+App 820450 output:   },
+App 820450 output:   _acquiringConnections: [],
+App 820450 output:   _allConnections: [],
+App 820450 output:   _freeConnections: [],
+App 820450 output:   _connectionQueue: [],
+App 820450 output:   _closed: false,
+App 820450 output:   [Symbol(kCapture)]: false
+App 820450 output: }
+App 820450 output: market1
+App 820450 output: market2
+App 820450 output: market3
+App 820450 output: market4
+App 820450 output: market5
+App 820450 output: market6
+App 820450 output: market7
+App 820450 output: market8
+App 820450 output: []
+App 825244 output: market-1
+App 825244 output: market0
+App 825244 output: conexión base de datos
+App 825244 output: Pool {
+App 825244 output:   _events: [Object: null prototype] {},
+App 825244 output:   _eventsCount: 0,
+App 825244 output:   _maxListeners: undefined,
+App 825244 output:   config: PoolConfig {
+App 825244 output:     acquireTimeout: 10000,
+App 825244 output:     connectionConfig: ConnectionConfig {
+App 825244 output:       host: 'localhost',
+App 825244 output:       port: 3306,
+App 825244 output:       localAddress: undefined,
+App 825244 output:       socketPath: undefined,
+App 825244 output:       user: 'meumeues_root',
+App 825244 output:       password: 'amor6969',
+App 825244 output:       database: 'meumeues_db',
+App 825244 output:       connectTimeout: 10000,
+App 825244 output:       insecureAuth: false,
+App 825244 output:       supportBigNumbers: false,
+App 825244 output:       bigNumberStrings: false,
+App 825244 output:       dateStrings: false,
+App 825244 output:       debug: undefined,
+App 825244 output:       trace: true,
+App 825244 output:       stringifyObjects: false,
+App 825244 output:       timezone: 'local',
+App 825244 output:       flags: '',
+App 825244 output:       queryFormat: undefined,
+App 825244 output:       pool: [Circular],
+App 825244 output:       ssl: false,
+App 825244 output:       localInfile: true,
+App 825244 output:       multipleStatements: false,
+App 825244 output:       typeCast: true,
+App 825244 output:       maxPacketSize: 0,
+App 825244 output:       charsetNumber: 33,
+App 825244 output:       clientFlags: 455631
+App 825244 output:     },
+App 825244 output:     waitForConnections: true,
+App 825244 output:     connectionLimit: 10,
+App 825244 output:     queueLimit: 0
+App 825244 output:   },
+App 825244 output:   _acquiringConnections: [],
+App 825244 output:   _allConnections: [],
+App 825244 output:   _freeConnections: [],
+App 825244 output:   _connectionQueue: [],
+App 825244 output:   _closed: false,
+App 825244 output:   [Symbol(kCapture)]: false
+App 825244 output: }
+App 825244 output: market1
+App 825244 output: market2
+App 825244 output: market3
+App 825244 output: market4
+App 825244 output: market5
+App 825244 output: market6
+App 825244 output: market7
+App 825244 output: market8
+App 825244 output: []
+App 829226 output: market-1
+App 829226 output: market0
+App 829226 output: conexión base de datos
+App 829226 output: Pool {
+App 829226 output:   _events: [Object: null prototype] {},
+App 829226 output:   _eventsCount: 0,
+App 829226 output:   _maxListeners: undefined,
+App 829226 output:   config: PoolConfig {
+App 829226 output:     acquireTimeout: 10000,
+App 829226 output:     connectionConfig: ConnectionConfig {
+App 829226 output:       host: 'localhost',
+App 829226 output:       port: 3306,
+App 829226 output:       localAddress: undefined,
+App 829226 output:       socketPath: undefined,
+App 829226 output:       user: 'meumeues_root',
+App 829226 output:       password: 'amor6969',
+App 829226 output:       database: 'meumeues_db',
+App 829226 output:       connectTimeout: 10000,
+App 829226 output:       insecureAuth: false,
+App 829226 output:       supportBigNumbers: false,
+App 829226 output:       bigNumberStrings: false,
+App 829226 output:       dateStrings: false,
+App 829226 output:       debug: undefined,
+App 829226 output:       trace: true,
+App 829226 output:       stringifyObjects: false,
+App 829226 output:       timezone: 'local',
+App 829226 output:       flags: '',
+App 829226 output:       queryFormat: undefined,
+App 829226 output:       pool: [Circular],
+App 829226 output:       ssl: false,
+App 829226 output:       localInfile: true,
+App 829226 output:       multipleStatements: false,
+App 829226 output:       typeCast: true,
+App 829226 output:       maxPacketSize: 0,
+App 829226 output:       charsetNumber: 33,
+App 829226 output:       clientFlags: 455631
+App 829226 output:     },
+App 829226 output:     waitForConnections: true,
+App 829226 output:     connectionLimit: 10,
+App 829226 output:     queueLimit: 0
+App 829226 output:   },
+App 829226 output:   _acquiringConnections: [],
+App 829226 output:   _allConnections: [],
+App 829226 output:   _freeConnections: [],
+App 829226 output:   _connectionQueue: [],
+App 829226 output:   _closed: false,
+App 829226 output:   [Symbol(kCapture)]: false
+App 829226 output: }
+App 829226 output: market1
+App 829226 output: market2
+App 829226 output: market3
+App 829226 output: market4
+App 829226 output: market5
+App 829226 output: market6
+App 829226 output: market7
+App 829226 output: market8
+App 829226 output: []
+App 834832 output: market-1
+App 834832 output: market0
+App 834832 output: conexión base de datos
+App 834832 output: Pool {
+App 834832 output:   _events: [Object: null prototype] {},
+App 834832 output:   _eventsCount: 0,
+App 834832 output:   _maxListeners: undefined,
+App 834832 output:   config: PoolConfig {
+App 834832 output:     acquireTimeout: 10000,
+App 834832 output:     connectionConfig: ConnectionConfig {
+App 834832 output:       host: 'localhost',
+App 834832 output:       port: 3306,
+App 834832 output:       localAddress: undefined,
+App 834832 output:       socketPath: undefined,
+App 834832 output:       user: 'meumeues_root',
+App 834832 output:       password: 'amor6969',
+App 834832 output:       database: 'meumeues_db',
+App 834832 output:       connectTimeout: 10000,
+App 834832 output:       insecureAuth: false,
+App 834832 output:       supportBigNumbers: false,
+App 834832 output:       bigNumberStrings: false,
+App 834832 output:       dateStrings: false,
+App 834832 output:       debug: undefined,
+App 834832 output:       trace: true,
+App 834832 output:       stringifyObjects: false,
+App 834832 output:       timezone: 'local',
+App 834832 output:       flags: '',
+App 834832 output:       queryFormat: undefined,
+App 834832 output:       pool: [Circular],
+App 834832 output:       ssl: false,
+App 834832 output:       localInfile: true,
+App 834832 output:       multipleStatements: false,
+App 834832 output:       typeCast: true,
+App 834832 output:       maxPacketSize: 0,
+App 834832 output:       charsetNumber: 33,
+App 834832 output:       clientFlags: 455631
+App 834832 output:     },
+App 834832 output:     waitForConnections: true,
+App 834832 output:     connectionLimit: 10,
+App 834832 output:     queueLimit: 0
+App 834832 output:   },
+App 834832 output:   _acquiringConnections: [],
+App 834832 output:   _allConnections: [],
+App 834832 output:   _freeConnections: [],
+App 834832 output:   _connectionQueue: [],
+App 834832 output:   _closed: false,
+App 834832 output:   [Symbol(kCapture)]: false
+App 834832 output: }
+App 834832 output: market1
+App 834832 output: market2
+App 834832 output: market3
+App 834832 output: market4
+App 834832 output: market5
+App 834832 output: market6
+App 834832 output: market7
+App 834832 output: market8
+App 834832 output: []
+App 840969 output: market-1
+App 840969 output: market0
+App 840969 output: conexión base de datos
+App 840969 output: Pool {
+App 840969 output:   _events: [Object: null prototype] {},
+App 840969 output:   _eventsCount: 0,
+App 840969 output:   _maxListeners: undefined,
+App 840969 output:   config: PoolConfig {
+App 840969 output:     acquireTimeout: 10000,
+App 840969 output:     connectionConfig: ConnectionConfig {
+App 840969 output:       host: 'localhost',
+App 840969 output:       port: 3306,
+App 840969 output:       localAddress: undefined,
+App 840969 output:       socketPath: undefined,
+App 840969 output:       user: 'meumeues_root',
+App 840969 output:       password: 'amor6969',
+App 840969 output:       database: 'meumeues_db',
+App 840969 output:       connectTimeout: 10000,
+App 840969 output:       insecureAuth: false,
+App 840969 output:       supportBigNumbers: false,
+App 840969 output:       bigNumberStrings: false,
+App 840969 output:       dateStrings: false,
+App 840969 output:       debug: undefined,
+App 840969 output:       trace: true,
+App 840969 output:       stringifyObjects: false,
+App 840969 output:       timezone: 'local',
+App 840969 output:       flags: '',
+App 840969 output:       queryFormat: undefined,
+App 840969 output:       pool: [Circular],
+App 840969 output:       ssl: false,
+App 840969 output:       localInfile: true,
+App 840969 output:       multipleStatements: false,
+App 840969 output:       typeCast: true,
+App 840969 output:       maxPacketSize: 0,
+App 840969 output:       charsetNumber: 33,
+App 840969 output:       clientFlags: 455631
+App 840969 output:     },
+App 840969 output:     waitForConnections: true,
+App 840969 output:     connectionLimit: 10,
+App 840969 output:     queueLimit: 0
+App 840969 output:   },
+App 840969 output:   _acquiringConnections: [],
+App 840969 output:   _allConnections: [],
+App 840969 output:   _freeConnections: [],
+App 840969 output:   _connectionQueue: [],
+App 840969 output:   _closed: false,
+App 840969 output:   [Symbol(kCapture)]: false
+App 840969 output: }
+App 840969 output: market1
+App 840969 output: market2
+App 840969 output: market3
+App 840969 output: market4
+App 840969 output: market5
+App 840969 output: market6
+App 840969 output: market7
+App 840969 output: market8
+App 840969 output: []
+App 843894 output: market-1
+App 843894 output: market0
+App 843894 output: conexión base de datos
+App 843894 output: Pool {
+App 843894 output:   _events: [Object: null prototype] {},
+App 843894 output:   _eventsCount: 0,
+App 843894 output:   _maxListeners: undefined,
+App 843894 output:   config: PoolConfig {
+App 843894 output:     acquireTimeout: 10000,
+App 843894 output:     connectionConfig: ConnectionConfig {
+App 843894 output:       host: 'localhost',
+App 843894 output:       port: 3306,
+App 843894 output:       localAddress: undefined,
+App 843894 output:       socketPath: undefined,
+App 843894 output:       user: 'meumeues_root',
+App 843894 output:       password: 'amor6969',
+App 843894 output:       database: 'meumeues_db',
+App 843894 output:       connectTimeout: 10000,
+App 843894 output:       insecureAuth: false,
+App 843894 output:       supportBigNumbers: false,
+App 843894 output:       bigNumberStrings: false,
+App 843894 output:       dateStrings: false,
+App 843894 output:       debug: undefined,
+App 843894 output:       trace: true,
+App 843894 output:       stringifyObjects: false,
+App 843894 output:       timezone: 'local',
+App 843894 output:       flags: '',
+App 843894 output:       queryFormat: undefined,
+App 843894 output:       pool: [Circular],
+App 843894 output:       ssl: false,
+App 843894 output:       localInfile: true,
+App 843894 output:       multipleStatements: false,
+App 843894 output:       typeCast: true,
+App 843894 output:       maxPacketSize: 0,
+App 843894 output:       charsetNumber: 33,
+App 843894 output:       clientFlags: 455631
+App 843894 output:     },
+App 843894 output:     waitForConnections: true,
+App 843894 output:     connectionLimit: 10,
+App 843894 output:     queueLimit: 0
+App 843894 output:   },
+App 843894 output:   _acquiringConnections: [],
+App 843894 output:   _allConnections: [],
+App 843894 output:   _freeConnections: [],
+App 843894 output:   _connectionQueue: [],
+App 843894 output:   _closed: false,
+App 843894 output:   [Symbol(kCapture)]: false
+App 843894 output: }
+App 843894 output: market1
+App 843894 output: market2
+App 843894 output: market3
+App 843894 output: market4
+App 843894 output: market5
+App 843894 output: market6
+App 843894 output: market7
+App 843894 output: market8
+App 843894 output: []
+App 862809 output: market-1
+App 862809 output: market0
+App 862809 output: conexión base de datos
+App 862809 output: Pool {
+App 862809 output:   _events: [Object: null prototype] {},
+App 862809 output:   _eventsCount: 0,
+App 862809 output:   _maxListeners: undefined,
+App 862809 output:   config: PoolConfig {
+App 862809 output:     acquireTimeout: 10000,
+App 862809 output:     connectionConfig: ConnectionConfig {
+App 862809 output:       host: 'localhost',
+App 862809 output:       port: 3306,
+App 862809 output:       localAddress: undefined,
+App 862809 output:       socketPath: undefined,
+App 862809 output:       user: 'meumeues_root',
+App 862809 output:       password: 'amor6969',
+App 862809 output:       database: 'meumeues_db',
+App 862809 output:       connectTimeout: 10000,
+App 862809 output:       insecureAuth: false,
+App 862809 output:       supportBigNumbers: false,
+App 862809 output:       bigNumberStrings: false,
+App 862809 output:       dateStrings: false,
+App 862809 output:       debug: undefined,
+App 862809 output:       trace: true,
+App 862809 output:       stringifyObjects: false,
+App 862809 output:       timezone: 'local',
+App 862809 output:       flags: '',
+App 862809 output:       queryFormat: undefined,
+App 862809 output:       pool: [Circular],
+App 862809 output:       ssl: false,
+App 862809 output:       localInfile: true,
+App 862809 output:       multipleStatements: false,
+App 862809 output:       typeCast: true,
+App 862809 output:       maxPacketSize: 0,
+App 862809 output:       charsetNumber: 33,
+App 862809 output:       clientFlags: 455631
+App 862809 output:     },
+App 862809 output:     waitForConnections: true,
+App 862809 output:     connectionLimit: 10,
+App 862809 output:     queueLimit: 0
+App 862809 output:   },
+App 862809 output:   _acquiringConnections: [],
+App 862809 output:   _allConnections: [],
+App 862809 output:   _freeConnections: [],
+App 862809 output:   _connectionQueue: [],
+App 862809 output:   _closed: false,
+App 862809 output:   [Symbol(kCapture)]: false
+App 862809 output: }
+App 862809 output: market1
+App 862809 output: market2
+App 862809 output: market3
+App 862809 output: market4
+App 862809 output: market5
+App 862809 output: market6
+App 862809 output: market7
+App 862809 output: market8
+App 862809 output: []
+App 953453 output: market-1
+App 953453 output: market0
+App 953453 output: conexión base de datos
+App 953453 output: Pool {
+App 953453 output:   _events: [Object: null prototype] {},
+App 953453 output:   _eventsCount: 0,
+App 953453 output:   _maxListeners: undefined,
+App 953453 output:   config: PoolConfig {
+App 953453 output:     acquireTimeout: 10000,
+App 953453 output:     connectionConfig: ConnectionConfig {
+App 953453 output:       host: 'localhost',
+App 953453 output:       port: 3306,
+App 953453 output:       localAddress: undefined,
+App 953453 output:       socketPath: undefined,
+App 953453 output:       user: 'meumeues_root',
+App 953453 output:       password: 'amor6969',
+App 953453 output:       database: 'meumeues_db',
+App 953453 output:       connectTimeout: 10000,
+App 953453 output:       insecureAuth: false,
+App 953453 output:       supportBigNumbers: false,
+App 953453 output:       bigNumberStrings: false,
+App 953453 output:       dateStrings: false,
+App 953453 output:       debug: undefined,
+App 953453 output:       trace: true,
+App 953453 output:       stringifyObjects: false,
+App 953453 output:       timezone: 'local',
+App 953453 output:       flags: '',
+App 953453 output:       queryFormat: undefined,
+App 953453 output:       pool: [Circular],
+App 953453 output:       ssl: false,
+App 953453 output:       localInfile: true,
+App 953453 output:       multipleStatements: false,
+App 953453 output:       typeCast: true,
+App 953453 output:       maxPacketSize: 0,
+App 953453 output:       charsetNumber: 33,
+App 953453 output:       clientFlags: 455631
+App 953453 output:     },
+App 953453 output:     waitForConnections: true,
+App 953453 output:     connectionLimit: 10,
+App 953453 output:     queueLimit: 0
+App 953453 output:   },
+App 953453 output:   _acquiringConnections: [],
+App 953453 output:   _allConnections: [],
+App 953453 output:   _freeConnections: [],
+App 953453 output:   _connectionQueue: [],
+App 953453 output:   _closed: false,
+App 953453 output:   [Symbol(kCapture)]: false
+App 953453 output: }
+App 953453 output: market1
+App 953453 output: market2
+App 953453 output: market3
+App 953453 output: market4
+App 953453 output: market5
+App 953453 output: market6
+App 953453 output: market7
+App 953453 output: market8
+App 953453 output: []
+App 1849312 output: market-1
+App 1849312 output: market0
+App 1849312 output: conexión base de datos
+App 1849312 output: Pool {
+App 1849312 output:   _events: [Object: null prototype] {},
+App 1849312 output:   _eventsCount: 0,
+App 1849312 output:   _maxListeners: undefined,
+App 1849312 output:   config: PoolConfig {
+App 1849312 output:     acquireTimeout: 10000,
+App 1849312 output:     connectionConfig: ConnectionConfig {
+App 1849312 output:       host: 'localhost',
+App 1849312 output:       port: 3306,
+App 1849312 output:       localAddress: undefined,
+App 1849312 output:       socketPath: undefined,
+App 1849312 output:       user: 'meumeues_root',
+App 1849312 output:       password: 'amor6969',
+App 1849312 output:       database: 'meumeues_db',
+App 1849312 output:       connectTimeout: 10000,
+App 1849312 output:       insecureAuth: false,
+App 1849312 output:       supportBigNumbers: false,
+App 1849312 output:       bigNumberStrings: false,
+App 1849312 output:       dateStrings: false,
+App 1849312 output:       debug: undefined,
+App 1849312 output:       trace: true,
+App 1849312 output:       stringifyObjects: false,
+App 1849312 output:       timezone: 'local',
+App 1849312 output:       flags: '',
+App 1849312 output:       queryFormat: undefined,
+App 1849312 output:       pool: [Circular],
+App 1849312 output:       ssl: false,
+App 1849312 output:       localInfile: true,
+App 1849312 output:       multipleStatements: false,
+App 1849312 output:       typeCast: true,
+App 1849312 output:       maxPacketSize: 0,
+App 1849312 output:       charsetNumber: 33,
+App 1849312 output:       clientFlags: 455631
+App 1849312 output:     },
+App 1849312 output:     waitForConnections: true,
+App 1849312 output:     connectionLimit: 10,
+App 1849312 output:     queueLimit: 0
+App 1849312 output:   },
+App 1849312 output:   _acquiringConnections: [],
+App 1849312 output:   _allConnections: [],
+App 1849312 output:   _freeConnections: [],
+App 1849312 output:   _connectionQueue: [],
+App 1849312 output:   _closed: false,
+App 1849312 output:   [Symbol(kCapture)]: false
+App 1849312 output: }
+App 1849312 output: market1
+App 1849312 output: market2
+App 1849312 output: market3
+App 1849312 output: market4
+App 1849312 output: market5
+App 1849312 output: market6
+App 1849312 output: market7
+App 1849312 output: market8
+App 1849312 output: []
+App 319884 output: market-1
+App 319884 output: market0
+App 319884 output: conexión base de datos
+App 319884 output: market1
+App 319884 output: market2
+App 319884 output: market3
+App 319884 output: market4
+App 319884 output: market5
+App 319884 output: market6
+App 319884 output: market7
+App 319884 output: market8
+App 319884 output: undefined
